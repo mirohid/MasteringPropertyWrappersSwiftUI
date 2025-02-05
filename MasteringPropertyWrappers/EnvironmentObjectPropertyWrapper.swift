@@ -20,7 +20,8 @@ struct EnvironmentObjectPropertyWrapper: View {
     @StateObject var settings = UserSettings()
 
     var body: some View {
-        ChildView2().environmentObject(settings)
+        ChildView2()
+            .environmentObject(settings)
     }
 }
 

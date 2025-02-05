@@ -11,7 +11,7 @@ struct ContentView: View {
     @State private var count = 0
 
     var body: some View {
-        VStack {
+        VStack (spacing:50){
             Text("Count: \(count)")
             Button("Increment") {
                 count += 1
