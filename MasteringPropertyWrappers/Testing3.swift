@@ -19,12 +19,17 @@ struct Testing3: View {
         VStack(spacing: 30){
             Text("---Counter---")
                 .font(.largeTitle)
+                .padding(.top,50)
+            Spacer()
+        
+            
                 .bold()
             Text("Count  =  \(count.TechExactly)")
                 .font(.title2)
                 .bold()
             //SecondView(count: $count)
             SecondView(count: count)
+            Spacer()
         }
     }
 }

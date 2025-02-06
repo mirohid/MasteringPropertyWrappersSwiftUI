@@ -11,6 +11,7 @@
 		020F73192D537E00008BBF03 /* Testing2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020F73182D537E00008BBF03 /* Testing2.swift */; };
 		020F731B2D5381C1008BBF03 /* Testing3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020F731A2D5381C0008BBF03 /* Testing3.swift */; };
 		020F731D2D5384E8008BBF03 /* RedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020F731C2D5384E7008BBF03 /* RedView.swift */; };
+		020F731F2D5397CD008BBF03 /* SheetTesting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020F731E2D5397CD008BBF03 /* SheetTesting.swift */; };
 		024902312D51E02800FACE83 /* MasteringPropertyWrappersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024902302D51E02800FACE83 /* MasteringPropertyWrappersApp.swift */; };
 		024902332D51E02800FACE83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024902322D51E02800FACE83 /* ContentView.swift */; };
 		024902352D51E02B00FACE83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 024902342D51E02B00FACE83 /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		020F73182D537E00008BBF03 /* Testing2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testing2.swift; sourceTree = "<group>"; };
 		020F731A2D5381C0008BBF03 /* Testing3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testing3.swift; sourceTree = "<group>"; };
 		020F731C2D5384E7008BBF03 /* RedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedView.swift; sourceTree = "<group>"; };
+		020F731E2D5397CD008BBF03 /* SheetTesting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetTesting.swift; sourceTree = "<group>"; };
 		0249022D2D51E02800FACE83 /* MasteringPropertyWrappers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MasteringPropertyWrappers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		024902302D51E02800FACE83 /* MasteringPropertyWrappersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasteringPropertyWrappersApp.swift; sourceTree = "<group>"; };
 		024902322D51E02800FACE83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				020F73182D537E00008BBF03 /* Testing2.swift */,
 				020F731A2D5381C0008BBF03 /* Testing3.swift */,
 				020F731C2D5384E7008BBF03 /* RedView.swift */,
+				020F731E2D5397CD008BBF03 /* SheetTesting.swift */,
 			);
 			path = MasteringPropertyWrappers;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				024902452D51E0B300FACE83 /* StateObjectPropertyWrapper.swift in Sources */,
 				020F73192D537E00008BBF03 /* Testing2.swift in Sources */,
 				024902412D51E06E00FACE83 /* ObservedObjectPropertyWrapper.swift in Sources */,
+				020F731F2D5397CD008BBF03 /* SheetTesting.swift in Sources */,
 				0249023F2D51E04C00FACE83 /* BindingPropertyWrapper.swift in Sources */,
 				024902312D51E02800FACE83 /* MasteringPropertyWrappersApp.swift in Sources */,
 				024902492D51E14F00FACE83 /* PublishedPropertyWrapper.swift in Sources */,
